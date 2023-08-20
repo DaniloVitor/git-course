@@ -22,4 +22,8 @@ Tipos de reset
 
 --mixed: ira desfazer o commit e voltara para o ponto modified
 
---hard: ira apagar tudo que foi feito no commit e vai volta para a versao anterior.
+--hard: ira apagar tudo que foi feito no commit e vai volta para a versao anterior
+
+codigo para atalhos de comandos
+
+exemlo: git config --global alias.s status
