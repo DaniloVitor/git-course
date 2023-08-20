@@ -26,4 +26,4 @@ Tipos de reset
 
 codigo para atalhos de comandos
 
-exemlo: git config --global alias.s status
+exemplo: git config --global alias.s status
